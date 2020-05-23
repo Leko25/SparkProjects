@@ -1,0 +1,17 @@
+MovieSimilaritiesScripts/.idea
+MovieSimilaritiesScripts/out
+MovieSimilaritiesScripts/src/main/scala/META-INF
+MovieSimilaritiesScripts/project
+MovieSimilaritiesScripts/target
+
+SparkMLScripts/.idea
+SparkMLScripts/out
+SparkMLScripts/src/main/scala/META-INF
+SparkMLScripts/target
+SparkMLScripts/project
+
+SparkMLScripts/project
+SparkMLScripts/out
+SparkMLScripts/src/main/scala/META-INF
+SparkMLScripts/target
+SparkMLScripts/.idea
